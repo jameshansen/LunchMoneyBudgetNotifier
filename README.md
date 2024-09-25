@@ -23,22 +23,22 @@ All the spending accounts should be zero'd (paid off) by the 1st of each month. 
 ### Lunch Money
 In your Lunch Money account, click the Gear Icon and then the **Developers** tab and then **Request Access Token**
 
-  <img src="https://github.com/user-attachments/assets/a67dc63c-8487-408a-83d5-846decf541c8" alt="Lunch Money Access Token" width="50%">
+<kbd><img src="https://github.com/user-attachments/assets/a67dc63c-8487-408a-83d5-846decf541c8" alt="Lunch Money Access Token" width="50%"></kbd>
 
 Copy and paste the Site Token key it generates into a text file for safe keeping.
 
 ### PushOver
 On PushOver the User Key is visible when you log in.
 
-  <img src="https://github.com/user-attachments/assets/17d17f5d-1c9d-4d08-a41c-ec7585309a9d" alt="PushOver User Key" width="50%">
+<kbd><img src="https://github.com/user-attachments/assets/17d17f5d-1c9d-4d08-a41c-ec7585309a9d" alt="PushOver User Key" width="50%"></kbd>
 
 However, you need to create an application, in this case I called mine **Balance Update**
 
-  <img src="https://github.com/user-attachments/assets/d0875b49-ca3e-4bd2-a647-01ae9cb13465" alt="PushOver Application Creation" width="50%">
+<kbd><img src="https://github.com/user-attachments/assets/d0875b49-ca3e-4bd2-a647-01ae9cb13465" alt="PushOver Application Creation" width="50%"></kbd>
 
 And on the information screen for the application you will get the **App Token**
 
-  <img src="https://github.com/user-attachments/assets/76e714c0-311f-40b3-985e-f4349fa93ac9" alt="PushOver App Token" width="50%">
+<kbd><img src="https://github.com/user-attachments/assets/76e714c0-311f-40b3-985e-f4349fa93ac9" alt="PushOver App Token" width="50%"></kbd>
 
 ## Configuration
 
