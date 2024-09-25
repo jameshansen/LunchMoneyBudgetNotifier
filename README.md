@@ -78,7 +78,8 @@ Plaid however is sometimes temperamental and may not always update quickly or at
 - PHP 7.0 or higher
 - cURL extension for PHP
 - Write permissions in the script's directory
-- Pushover account and API credentials
+- Lunch Money account and API credentials
+- PushOver account and API credentials
 
 ## Troubleshooting
 
@@ -97,7 +98,7 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 
 ## Author
 
-James Hansen.
+James Hansen
 
 ## Acknowledgments
 
