@@ -145,9 +145,9 @@ while (true) {
 		if ($change != 0) {
 			echo "Budget left has changed by $" . $change . "\n";
 			if ($change > 0) {
-				$title = "New debit: $" . number_format($change, 2) . ". " . $title;
+				$title = "New debit(s): $" . number_format($change, 2) . ". " . $title;
 			} else {
-				$title = "New credit: $" . number_format(abs($change), 2) . ". " . $title;
+				$title = "New credit(s): $" . number_format(abs($change), 2) . ". " . $title;
 			}
 			$detailedMessage .= "Change since last check: $" . number_format($change, 2) . "\n\n";
 		}
