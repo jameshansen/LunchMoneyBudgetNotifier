@@ -72,9 +72,6 @@ function sendPushoverNotification($message) {
         'message' => $message
     );
 
-	print_r($data);
-	return;
-
     $ch = curl_init($url);
     curl_setopt($ch, CURLOPT_POST, 1);
     curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
