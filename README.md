@@ -92,10 +92,6 @@ Plaid however is sometimes temperamental and may not always update quickly or at
 
 Contributions, issues, and feature requests are welcome. Feel free to check [issues page](link_to_your_issues_page) if you want to contribute.
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
 ## Author
 
 James Hansen
@@ -105,3 +101,7 @@ James Hansen
 - @juftin's cool [lunchable-pushlunch](https://github.com/juftin/lunchable-pushlunch) project which was the inspiration for this one.
 - Lunch Money for being an awesome service.
 - Pushover for providing the notification service that is super easy to use.
+
+## License
+
+Lunch Money Budget Notifier is free software under the MIT License, in [LICENSE](LICENSE).
